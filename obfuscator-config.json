@@ -1,0 +1,8 @@
+{
+  "compact": true,
+  "controlFlowFlattening": true,
+  "deadCodeInjection": true,
+  "stringArray": true,
+  "stringArrayEncoding": ["rc4"],
+  "renameGlobals": true
+}
